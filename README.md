@@ -19,3 +19,6 @@ When running, make sure that there is a folder indicated by the path in the work
 
 * `frames_save_path = 'videos'
 * `video_save_path = 'transed_videos'
+
+这是自己尝试改代码的一个初步结果，代码仍有很多需要优化的地方
+大二软工柚子竹
